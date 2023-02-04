@@ -1,0 +1,28 @@
+.createBtn {
+  margin: 50px auto;
+  background-color: #f5d04ba6;
+  border-radius: 10px;
+  border-style: none;
+  padding: 15px 30px;
+  font-size: 25px;
+  box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5),
+    7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: 0.3s ease-in;
+  color: rgb(26, 11, 6);
+}
+
+.createBtn:hover {
+  background-color: #f7e5a0a6;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-direction: row; */
+  flex-wrap: wrap;
+}
+
+

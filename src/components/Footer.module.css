@@ -1,0 +1,10 @@
+.footer {
+  background-color: transparent;
+  font-size: 14px;
+  text-align: center;
+}
+
+.footer p {
+  color: rgb(170, 108, 15);
+  margin: 10px 0;
+}

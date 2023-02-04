@@ -1,0 +1,45 @@
+.listHeadingSummary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 10px;
+  transition: 0.3s ease-in;
+}
+
+.listHeadingSummary h1 {
+  font-size: 1.1em;
+  font-family: "Merriweather sans", sans-serif;
+  font-weight: 600;
+  color: rgb(104, 65, 52);
+  transition: 0.3s ease-in;
+}
+
+.listHeadingSummary h1:hover {
+  color: rgb(200, 139, 8);
+}
+
+.actionBtn{
+  color: rgb(200, 139, 8);
+  background-color: transparent;
+  border-style: none;
+  /* margin: 0 3px; */
+  /* border-radius: 50%; */
+  text-align: center;
+  padding: 2px;
+  transition: 0.3s ease-in;
+  font-size: medium;
+}
+
+.actionBtn:hover {
+  color: #fdcb6e;
+  transform: scale(1.4);
+  cursor: pointer;
+  /* background-color: #ffeaa7; */
+}
+
+

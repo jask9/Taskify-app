@@ -1,0 +1,23 @@
+.filterButton {
+    margin: 10px 50px;
+    padding: 12px 20px;
+    border-radius: 5px;
+    background-color: #f1f5f8;
+    color:rgb(26, 11, 6);
+    border-color: rgb(26, 11, 6);
+    cursor: pointer;
+  }
+
+  .filterButton:hover {
+    background-color: rgba(47, 27, 21, 0.664);
+    color: white
+  }
+  
+  .pressedFilterButton {
+    border-radius: 5px;
+    margin: 10px 50px;
+    padding: 12px 20px;
+    background-color: rgb(26, 11, 6);
+    color: #fff;
+    cursor: pointer;
+  }
