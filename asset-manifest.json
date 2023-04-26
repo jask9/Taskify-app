@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Taskify-app/static/css/main.00f27dd1.css",
+    "main.js": "/Taskify-app/static/js/main.37254f5b.js",
+    "static/media/list.png": "/Taskify-app/static/media/list.e4bc1bbd87f5f2741aba.png",
+    "index.html": "/Taskify-app/index.html",
+    "main.00f27dd1.css.map": "/Taskify-app/static/css/main.00f27dd1.css.map",
+    "main.37254f5b.js.map": "/Taskify-app/static/js/main.37254f5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f27dd1.css",
+    "static/js/main.37254f5b.js"
+  ]
+}
